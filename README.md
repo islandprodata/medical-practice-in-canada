@@ -9,7 +9,7 @@ Welcome! This is a clean, ready-to-use list of **22,048 medical practice compani
 | File | Rows | Format | Link |
 |---|---|---|---|
 | **Free sample** | 500 rows | CSV | [companies_sample500.csv](companies_sample500.csv) |
-| **Full dataset** | **22,048 rows** | CSV + JSON | Buy on Gumroad -- $2 per 10,000 records ($6 total) -> **[PASTE GUMROAD LINK HERE]** |
+| **Full dataset** | **22,048 rows** | CSV + JSON | Buy on Gumroad -- $2 per 10,000 records ($6 total) -> **[GUMROAD-PENDING-QUOTA]** |
 
 > Start with the [free 500-row sample](companies_sample500.csv) -- same columns, same format as the full file. If it fits your workflow, grab the complete 22,048-row dataset on Gumroad.
 
@@ -48,7 +48,7 @@ This repo contains a **free 500-row sample** of medical practice canada companie
 - **22,048 canada medical practice companies**, same 10 columns as the sample
 - Priced at **$2 per 10,000 records = $6 total**
 - Delivered as `companies.csv` (+ JSON version) immediately after purchase
-- Buy here -> **[PASTE GUMROAD LINK HERE]**
+- Buy here -> **[GUMROAD-PENDING-QUOTA]**
 
 ## Use cases
 
